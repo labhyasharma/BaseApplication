@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="text_color_opacity_10">#1a000000</color>
+    <color name="text_color_opacity_20">#33000000</color>
+    <color name="text_color_opacity_30">#4d000000</color>
+    <color name="text_color_opacity_40">#66000000</color>
+    <color name="text_color_opacity_50">#80000000</color>
+    <color name="text_color_opacity_60">#99000000</color>
+    <color name="text_color_opacity_70">#b3000000</color>
+    <color name="text_color_opacity_80">#cc000000</color>
+    <color name="text_color_opacity_90">#e6000000</color>
+    <color name="Nav_header_colour">#e64a36ae</color>
+    <color name="BDT_colour">#fb8c00</color>
+
+
+    <color name="grey">#f7f6f7</color>
+    <color name="card_boundry_color">#CABBBBBB</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="colorRipple">#A9A9F5</color>
+    <color name="orange">#FF3909</color>
+    <color name="colorAccentDark">#00B482</color>
+
+    <color name="colorBlack">#555555</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGrey">#707070</color>
+    <color name="colorGreyLight">#8A8A8A</color>
+</resources>
